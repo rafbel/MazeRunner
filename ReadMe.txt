@@ -9,7 +9,7 @@ This project was created using Microsoft Visual Studio 2012 Express and Arduino 
 Project used OpenCV and .NET Framework.
 
 Requirements:
-{OpenCV - related files (change the /includes to your location).
+{OpenCV - related files (change the /includes to your location)}.
 
 This file contains a summary of what you will find in each of the files that
 make up your SerialCommunication application.
